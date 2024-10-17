@@ -54,7 +54,6 @@ section img {
 }
 
 .discount > h1 {
-    text-align: center;
     margin-bottom: 0.5rem;
 }
 
@@ -80,7 +79,7 @@ footer {
 }
 
 footer div {
-    flex: 50%;
+    flex: 1;
 }
 
 #small-logo > img {
