@@ -59,6 +59,7 @@ section img {
 
 .actions {
     border: solid;
+    border-radius: 25px;
     flex: 1;
     padding: 3rem;
     background-color: rgb(173, 231, 231);
